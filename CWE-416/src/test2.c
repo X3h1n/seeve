@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#define SIZE 64
+#define SIZE 10
 
 int main (){
     int abrt=0;
